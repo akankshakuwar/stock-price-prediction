@@ -108,21 +108,19 @@ View the historical stock data and the model’s predictions for the next day.
 
 8. Screenshots:
 # Sign in/Login Screen:
+<img width="1122" height="592" alt="Screenshot 2025-03-27 152004" src="https://github.com/user-attachments/assets/ab9274b7-66b8-4a8a-9b8f-9277f73829b5" />
 
-![Screenshot 2025-03-30 213906](https://github.com/user-attachments/assets/f64ceea3-fdae-4f3b-a691-1f1780a91159)
+<img width="1312" height="586" alt="Screenshot 2025-03-27 152059" src="https://github.com/user-attachments/assets/840e9234-0709-46de-8677-d092a64b2ee6" />
 
-![Screenshot 2025-03-18 144558](https://github.com/user-attachments/assets/7f051e58-d991-42cc-be96-bcf06b0c7aac)
+<img width="900" height="251" alt="Screenshot 2025-03-27 152126" src="https://github.com/user-attachments/assets/8367964c-54a3-44a3-b4ca-85f1c76fd230" />
 
 
 # Stock Prediction: 
-![Screenshot 2025-03-30 213851](https://github.com/user-attachments/assets/fa851efc-0903-4c48-898c-67633e1f2546)
+<img width="798" height="540" alt="Screenshot 2025-03-18 144731" src="https://github.com/user-attachments/assets/dbf5ef96-63d1-40fe-b21b-74bdd44f0b1b" />
+<img width="982" height="525" alt="Screenshot 2025-03-18 144752" src="https://github.com/user-attachments/assets/6ecd8ccd-987d-45d9-8c2a-8b828f4f00c1" />
 
+<img width="921" height="515" alt="Screenshot 2025-03-18 144807" src="https://github.com/user-attachments/assets/bad74bf1-b84e-42d8-964b-b639916efd56" />
 
-![Screenshot 2025-03-18 144731](https://github.com/user-attachments/assets/24bb33d0-6920-4aaa-af41-5056002ed553)
+<img width="942" height="264" alt="Screenshot 2025-03-18 144823" src="https://github.com/user-attachments/assets/d67b6107-c34b-4fd5-97c9-eca05ad534a5" />
 
-![Screenshot 2025-03-18 144752](https://github.com/user-attachments/assets/68e94472-9a69-46ca-b7fb-898014eebad7)
-
-![Screenshot 2025-03-18 144807](https://github.com/user-attachments/assets/bb17e89d-f458-4879-89d2-e42700c5ca9f)
-
-![Screenshot 2025-03-18 144823](https://github.com/user-attachments/assets/06e2a134-f077-4121-a33b-569105e64d03)
 
